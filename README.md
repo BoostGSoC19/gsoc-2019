@@ -16,3 +16,14 @@ implement algorithms from the following categories:
     * morphological image processing
     * noise filtering
     * convolutions
+
+## Boost.Geometry
+
+* Student: [Tinko Bartels](https://github.com/tinko92)
+* Mentors: [Vissarion Fisikopoulos](https://github.com/vissarion), [Adam Wulkiewicz](https://github.com/awulkiew)
+
+The goal of this projest is twofold. First, implement algorithms 
+for computing the Delaunay triangulation and (the dual structure) 
+Voronoi diagram of a set of points. Second, implement algorithms 
+for random point generation (according to some given distribution,
+e.g. uniform) in a geometry. 
