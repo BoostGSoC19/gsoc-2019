@@ -6,6 +6,7 @@
 
 * Student: [Miral Shah](https://github.com/miralshah365)
 * Mentor:  [Mateusz Loskot](https://github.com/mloskot)
+* Repository: https://github.com/BoostGSoC19/gil-miral
 
 The goal of this project is to add to GIL selection of core algorithms
 used in the image processing and analysis techniques Miral proposed to
