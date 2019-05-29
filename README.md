@@ -12,11 +12,19 @@ The goal of this project is to add to GIL selection of core algorithms
 used in the image processing and analysis techniques Miral proposed to
 implement algorithms from the following categories:
 
-    * thresholding
-    * channels normalization 
-    * morphological image processing
-    * noise filtering
-    * convolutions
+* thresholding
+* channels normalization 
+* morphological image processing
+* noise filtering
+* convolutions
+
+2. TODO
+
+* Student: [Olzhas Zhumabek](https://github.com/simmplecoder)
+* Mentor:  [Stefan Seefeld](https://github.com/stefanseefeld/)
+* Repository: https://github.com/BoostGSoC19/gil-olzhas
+
+TODO
 
 ## Boost.Geometry
 
