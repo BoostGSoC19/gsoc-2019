@@ -2,7 +2,7 @@
 
 ## Boost.GIL
 
-1. Selection of image processing algorithms
+### Selection of image processing algorithms
 
 * Student: [Miral Shah](https://github.com/miralshah365)
 * Mentor:  [Mateusz Loskot](https://github.com/mloskot)
@@ -18,7 +18,7 @@ implement algorithms from the following categories:
 * noise filtering
 * convolutions
 
-2. TODO
+### TODO
 
 * Student: [Olzhas Zhumabek](https://github.com/simmplecoder)
 * Mentor:  [Stefan Seefeld](https://github.com/stefanseefeld/)
