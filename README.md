@@ -18,13 +18,20 @@ implement algorithms from the following categories:
 * noise filtering
 * convolutions
 
-### TODO
+### Fundamentals of epipolar geometry
 
 * Student: [Olzhas Zhumabek](https://github.com/simmplecoder)
 * Mentor:  [Stefan Seefeld](https://github.com/stefanseefeld/)
 * Repository: https://github.com/BoostGSoC19/gil-olzhas
 
-TODO
+The goal of this project is to implement basic algorithms
+and data structure to create basis for stereo vision algorithms
+and 3D reconstruction.
+
+* feature detection and extraction
+* fundamental matrix calculation
+* drawing epipolar lines
+* rectification
 
 ## Boost.Geometry
 
